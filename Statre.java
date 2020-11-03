@@ -1,14 +1,5 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package household;
 
-/**
- *
- * @author HP
- */
 public class Statre {
     public static void main(String[] args) {
         Brand brand = new Brand();
@@ -20,7 +11,7 @@ public class Statre {
         door.setDoorSize(12.3);
         door.setBrand(brand);
         
-        System.out.println("Door Brand:"+door.getBrand().getBrandId()+" \n"+"Door price:"+door.getDoorPrice()+"\n"+"Door size:"+" "+door.getDoorSize());
+        System.out.print("Door Brand:"+door.getBrand().getBrandId()+" \n"+"Door price:"+door.getDoorPrice()+"\n"+"Door size:"+" "+door.getDoorSize());
     }
     
 }
