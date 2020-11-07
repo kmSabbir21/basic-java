@@ -1,5 +1,4 @@
 package homework;
-
 public class LeapYear{
     public static void main(String[] args){
         int year=3030;
