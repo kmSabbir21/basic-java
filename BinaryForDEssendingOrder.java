@@ -34,7 +34,7 @@ public class BinaryForDEssendingOrder {
             } else {
                 last = middle - 1;
             }
-            middle = (first + last) / 2;
+            middle = (first+last) / 2;
         }
         if (first > last) {
             System.out.println(item + " is not found.\n");
