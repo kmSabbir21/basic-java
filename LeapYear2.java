@@ -4,9 +4,10 @@ public class LeapYear{
         int year=3030;
         if((year%4==0)||(year%400==0 && year%100!=0)){
         System.out.println("leap year");
+
         }
         else{
-        System.out.println("No!It's not Leap Year");
+        System.out.println("No!It's not a Leap Year");
         }
        
     }
