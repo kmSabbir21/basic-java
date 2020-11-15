@@ -1,6 +1,7 @@
 package household;
 
 public class Statre {
+
     public static void main(String[] args) {
         Brand brand = new Brand();
         brand.setBrandId(123.87);
