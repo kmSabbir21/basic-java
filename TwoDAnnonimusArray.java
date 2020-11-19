@@ -1,5 +1,4 @@
 package New.folder;
-
 public class TwoDAnnonimusArray {
     
     static void sum(int [][] no){
