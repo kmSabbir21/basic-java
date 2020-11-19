@@ -1,7 +1,7 @@
 package New.folder;
 public class AnnonimousArray {
     
-    static void sum( int[] no){
+   static void sum( int[] no){
     int total=0;
     for(int i:no){
     total=total+i;
