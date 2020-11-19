@@ -1,6 +1,7 @@
 package diu.cse.pkg7th;
 
 import java.util.Scanner;
+
 public class BinaryForDEssendingOrder {
 
     public static void main(String args[]) {
