@@ -1,5 +1,4 @@
 package New.folder;
-
 public class FindMinOfAnArray {
     public static void main(String[] args) {
         int [] a ={3,2,4,7,8,-5,5};
