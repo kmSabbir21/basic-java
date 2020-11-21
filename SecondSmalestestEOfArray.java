@@ -1,10 +1,5 @@
-
 package New.folder;
 
-/**
- *
- * @author WIN
- */
 public class SecondSmalestestEOfArray {
      public static void main(String[] args) {
         int [] a = {2,3,6,9,1,8,7,4};
