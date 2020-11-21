@@ -12,7 +12,9 @@ public class Statre {
         door.setDoorSize(12.3);
         door.setBrand(brand);
         
-        System.out.print("Door Brand:"+door.getBrand().getBrandId()+" \n"+"Door price:"+door.getDoorPrice()+"\n"+"Door size:"+" "+door.getDoorSize());
+        System.out.print("Door Brand:"+door.getBrand().getBrandId()+
+                         "\n"+"Door price:"+door.getDoorPrice()+
+                         "\n"+"Door size:"+" "+door.getDoorSize());
     }
     
 }
