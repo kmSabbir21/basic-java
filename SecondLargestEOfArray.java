@@ -1,6 +1,5 @@
 package New.folder;
 
-
 public class SecondLargestEOfArray {
     public static void main(String[] args) {
         int [] a = {2,3,6,9,1,8,7,4};
