@@ -1,5 +1,4 @@
 package diunotes;
-
 import java.util.Scanner;
 
 public class UserInputOutput {
