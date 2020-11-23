@@ -12,7 +12,7 @@ public class UserInputOutput {
        y =w.nextDouble();
        a = x+2;
        b = y-3;
-       System.out.println("The value of a is:" +a+ "\n" +"The value of b is:"+b);
+        System.out.println("The value of a is:" +a+ "\n" +"The value of b is:"+b);
     }
     
 }
