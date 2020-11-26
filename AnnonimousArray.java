@@ -1,4 +1,5 @@
 package New.folder;
+
 public class AnnonimousArray {
     
    static void sum( int[] no){
