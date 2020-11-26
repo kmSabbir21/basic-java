@@ -11,6 +11,7 @@ public class AnnonimousArray {
     }
     
     public static void main(String[] args) {
+        
         AnnonimousArray.sum(new int[]{10,20,30,40,50});
     }
     
