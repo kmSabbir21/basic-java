@@ -7,6 +7,7 @@ public class AnnonimousArray {
     int total=0;
        
     for(int i:no){
+        
     total=total+i;
     }
         System.out.println(total);
