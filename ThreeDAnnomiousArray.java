@@ -1,5 +1,4 @@
 package New.folder;
-
 public class ThreeDAnnomiousArray {
      static void sum(int [][][] no){
         int total=0;
