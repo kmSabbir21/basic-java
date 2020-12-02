@@ -1,5 +1,4 @@
 package com.extra;
-
 import java.util.Scanner;
 
 public class Namta {
