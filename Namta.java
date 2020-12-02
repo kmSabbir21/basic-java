@@ -1,6 +1,5 @@
 package com.extra;
 import java.util.Scanner;
-
 public class Namta {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
