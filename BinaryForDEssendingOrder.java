@@ -3,7 +3,7 @@ package diu.cse.pkg7th;
 
 import java.util.Scanner;
 
-public class BinaryForDEssendingOrder {
+public class BinaryForDEssendingOrder{
 
     public static void main(String args[]) {
         int counter, num, item, array[], first, last, middle;
